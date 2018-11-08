@@ -1,0 +1,8 @@
+texto = input("Escreva algo: ")
+print("-"*30)
+print('0 tipo primitivo desse valor é: ', type(texto))
+print("Tem espaços ? ", texto.isspace())
+print("Ele é numerico: ",texto.isnumeric())
+print("Ele é alfabetico ", texto.isalpha())
+print("Ele é alfanumerico ", texto.isalnum())
+print("Ele é maisculo? ", texto.isupper())
