@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aeeb978-7225-417b-a431-a087285d48a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="e9e2943c-21bd-496e-92fb-0b259c3128e5" />
+  <component name="JupyterTrust" id="62b8959e-d055-4b36-aa6a-bbe06fe0256e" />
   <component name="ProjectId" id="1jvQFJEBTqmrs5KDouJfEIpnk4w" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -185,6 +186,7 @@
       <option name="presentableId" value="Default" />
       <updated>1541694198441</updated>
       <workItem from="1604681983176" duration="1366000" />
+      <workItem from="1604683958293" duration="2061000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1541725748345</created>
@@ -207,29 +209,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1604683360177">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1320" height="173" key="GridCell.Tab.0.bottom" timestamp="1604684799685">
+      <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604683360177" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1604683360176">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1320" height="173" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1604684799685" />
+    <state width="1320" height="173" key="GridCell.Tab.0.center" timestamp="1604684799684">
+      <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604683360176" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1604683360176">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1320" height="173" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1604684799684" />
+    <state width="1320" height="173" key="GridCell.Tab.0.left" timestamp="1604684799684">
+      <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604683360176" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1604683360176">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1320" height="173" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1604684799684" />
+    <state width="1320" height="173" key="GridCell.Tab.0.right" timestamp="1604684799684">
+      <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604683360176" />
+    <state width="1320" height="173" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1604684799684" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1604683359133">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604683359133" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$ex010.coverage" NAME="ex010 Coverage Results" MODIFIED="1604683042287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$ex009.coverage" NAME="ex009 Coverage Results" MODIFIED="1604682355606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$ex010.coverage" NAME="ex010 Coverage Results" MODIFIED="1604684799647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

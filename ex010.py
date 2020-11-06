@@ -1,10 +1,7 @@
-
-
-lista = [1,2,3,4,6,7,8,9,7,10]
+lista = [1,2,3,4,4,4,4,4,4,4,4,4,6,7,8,9,7,10]
+listaSR = []
 
 def tiraRepeticao(entrada):
-    for i in lista:
-        print(i)
+    return set(lista)
 
-
-tiraRepeticao(lista)
+print(tiraRepeticao(lista))
