@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="9aeeb978-7225-417b-a431-a087285d48a3" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ex011.py" afterDir="false" />
@@ -9,6 +10,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="9aeeb978-7225-417b-a431-a087285d48a3" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/grafos-aula" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.ex010">
@@ -186,7 +190,11 @@
       <option name="presentableId" value="Default" />
       <updated>1541694198441</updated>
       <workItem from="1604681983176" duration="1366000" />
+<<<<<<< Updated upstream
       <workItem from="1604683958293" duration="2061000" />
+=======
+      <workItem from="1604860105615" duration="46000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1541725748345</created>
@@ -209,8 +217,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< Updated upstream
     <state width="1320" height="173" key="GridCell.Tab.0.bottom" timestamp="1604684799685">
       <screen x="0" y="30" width="1366" height="738" />
+=======
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1604860149732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604860149732" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1604683360177">
+      <screen x="0" y="0" width="1366" height="728" />
+>>>>>>> Stashed changes
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604683360177" />
     <state width="1320" height="173" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1604684799685" />
