@@ -1,4 +1,4 @@
-arq = open('/tmp/lista.txt', 'r')
+arq = open('lista.txt', 'r')
 texto = arq.readlines()
 for linha in texto :
     print(linha)
